@@ -4,8 +4,8 @@
 
 ## Контакты
 - **Telegram:** @Sokotetris_bot  
-- **Email:** ваш_cleo-anima-shorts@mail.ru  
-- **GitHub:** [github.com/@Sokotetris_bot](https://github.com/@Sokotetris_bot)  
+- **Email:** cleo-anima-shorts@mail.ru  
+- **GitHub:** [github.com/VladimirTheCoder](https://github.com/VladimirTheCoder)  
 
 ---
 
